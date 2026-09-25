@@ -24,3 +24,5 @@ I am currently working on full stack Javascript projects, using different stacks
 - I did a few student projects during my Javascript course
 
 I use Javascript, nodejs, react, and mongodb as my current stack. I am using different stacks and more than willing to learn something new
+
+You can contact me mibudhia.dev@gamil.com
