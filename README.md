@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Muaaz Budhia, I am 32 years old. I love technology, fitness, video games, history, with an insatiable hunger for knowledge
+- I am a former personal trainer, now aspiring web developer
+- I have been programming for almost 2 years
+- I am very eager to learn from someone with experience or a mentor
+
+I am currently working on full stack Javascript projects, using different stacks to find which ones I prefer
+- I did a few student projects during my Javascript course
+
+I use Javascript, nodejs, react, and mongodb as my current stack. I am using different stacks and more than willing to learn something new
